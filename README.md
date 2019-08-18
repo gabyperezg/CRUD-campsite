@@ -4,19 +4,19 @@ This project is a CRUD web app built in node, passport, express and mongo. Its t
 
 Index view of the project:
 
-<img src="/images/inicio.png/>
+![Landing Page](./images/inicio.png)
 
 View of all campgrounds once logged in.
 
-<img src="/images/vistaCamps.png/>
+![Landing Page](./images/vistaCamps.png)
 
 The detailed view of a single campground, if the user owns the campground he can edit and delete the campground. Users can also leave comments as well.
 
-<img src="/images/verCamp.png/>
+![Landing Page](./images/verCamp.png)
 
 Edit view of a campground.
 
-<img src="/images/editCamp.png/>
+![Landing Page](./images/editCamp.png)
 
 ## Installation
 
@@ -38,4 +38,4 @@ Finally run in the project folder
     
 Finally open http://localhost:8000/ in browser.   
 
-#####Enjoy CRUD operations
+##### Enjoy CRUD operations !!!!!
